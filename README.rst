@@ -1,6 +1,10 @@
 TinyPNG API
 -----------
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/mbarkhau/tinypng
+   :target: https://gitter.im/mbarkhau/tinypng?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 Python module and command line tool for `tinypng.com`_
 
 Shrink PNG files. Advanced lossy compression for PNG images that
